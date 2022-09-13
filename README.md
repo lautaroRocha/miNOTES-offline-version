@@ -2,5 +2,4 @@
 
 This is a notes app built on React.
 
-As it is still not deployed, you can clone this repository
-and run npm-start to test in locally 
+This version runs locally, and is deployed as an option to the main one, that runs on Firebase.
